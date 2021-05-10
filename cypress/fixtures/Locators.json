@@ -31,45 +31,4 @@
         "Description": ".book_description_pre",
         "Category": ".book_category_pre",
         "Link": ".btn.btn-primary"
-    },
-
-    "EditCategories": {
-        "Edit": "a[href='/update_categories']",
-        "Title": ".head_title",
-        "CheckCategories": "input#categories_",
-        "Next": "#button_submit",
-        "CheckDevices": "input#devices_",
-        "Message": ".alert",
-        "AlerMess": "#notice"
-    },
-
-    "Overview": {
-        "Title": "a[href='/buch/traumreisen-in-die-alles-anders-welt']",
-        "BookTitle": "h1",
-        "Author": ".author",
-        "Description": ".book_description",
-        "Category": ".book_category_details",
-        "DealTime": ".deal_time",
-        "Link": ".book_links_detail",
-        "Share": ".share"
-    },
-
-    "EbooksTranslation": {
-        "EditCategory": "a[href='/update_categories']",
-        "EditUser": "a[href='/users/edit']",
-        "SignOut": "a[href='/users/sign_out']",
-        "Category": "h4",
-        "CategoryTitle": ".smaller",
-        "EN": ".nav-link",
-        "BookInfo": ".box-left-book",
-        "Fantasy": "a[href='/ebooks/fantasy'",
-        "Title": ".smaller",
-        "Author": ".author",
-        "Categories": ".book_category_details",
-        "DealTime": ".deal_time",
-        "Available": ".available",
-        "Share": ".share"
-    }
-
-    
-}
+}}
