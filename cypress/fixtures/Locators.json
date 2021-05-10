@@ -13,24 +13,18 @@
 
     "Ebooks": {
         "DE": ".nav-link",
-        "FreeDeals": "a[href='/ebooks?filter=free'",
-        "Title": ".smaller",
-        "Krimis": "a[href='/ebooks/krimis'",
-        "Thriller": "a[href='/ebooks/thriller'",
-        "Abenteuer": "a[href='/ebooks/abenteuer'",
-        "Liebesromane": "a[href='/ebooks/liebesromane'",
-        "SF": "a[href='/ebooks/science-fiction'",
-        "Historische": "a[href='/ebooks/historische-romane'",
-        "Gesundheit": "a[href='/ebooks/gesundheit-koerper-und-geist'",
-        "Fantasy": "a[href='/ebooks/fantasy'",
-        "Belletristik": "a[href='/ebooks/belletristik'",
-        "Sachbuch": "a[href='/ebooks/sachbuch'",
-        "Bestseller": "a[href='/ebooks/bestseller'",
-        "English": "a[href='/ebooks/bestseller-auf-englisch'",
-        "Author": ".book_author_pre",
-        "Description": ".book_description_pre",
-        "Category": ".book_category_pre",
-        "Link": ".btn.btn-primary"
+        "Gesundheit": "a[href='/ebooks/gesundheit-koerper-und-geist'"
+    },
+
+    "Overview": {
+        "Title": "a[href='/buch/traumreisen-in-die-alles-anders-welt']",
+        "BookTitle": "h1",
+        "Author": ".author",
+        "Description": ".book_description",
+        "Category": ".book_category_details",
+        "DealTime": ".deal_time",
+        "Link": ".book_links_detail",
+        "Share": ".share"
     }
 
     
